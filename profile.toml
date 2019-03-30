@@ -1,3 +1,4 @@
 [Profile]
-    nickname: yutaka
+    nickname: "yutaka"
     age: 30
+    bloodtype = "A"
