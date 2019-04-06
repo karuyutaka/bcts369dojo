@@ -1,5 +1,5 @@
 [Profile]
-    nickname: "yutaka"
-    age: 30
+    nickname = "yutaka"
+    age = 30
     bloodtype = "A"
     learning-status = "Exercise4"
